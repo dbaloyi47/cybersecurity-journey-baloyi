@@ -1,86 +1,74 @@
-# 🛡️ Cybersecurity Portfolio – Doctor Baloyi
+# Hello, I am Doctor Baloyi
+<a href="https://www.linkedin.com/in/doctor-baloyi-29907a110/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 👋 About Me
 
-**My Path from IT Support to Cybersecurity**
+[Brief Introduction ]
 
 I'm **Doctor Baloyi**, a dedicated IT Professional with over **7 years** of experience in Onsite Support and Office Automation. My background includes advanced troubleshooting of copiers and printers, end-user support, network diagnostics, and leading IT rollouts across organizations. 
 
 After years of solving complex IT problems, I'm now focused on **defensive cybersecurity (Blue Team)**. I'm actively training as a **SOC Analyst** and honing skills in threat detection, alert triage, and incident response using industry tools and simulations.
 
----
 
-## 🎯 Current Cybersecurity Journey
+## Objective
 
-I’m building my skills through hands-on training platforms like **LetsDefend**, Splunk, and Cisco Networking Academy, and pursuing key certifications:
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 📘 **CompTIA Network+** – *(Exam in July 2025)*
-- 📘 **Certified in Cybersecurity (ISC2)** – *(Exam in July 2025)*
-- 📘 **CompTIA Security+** – *(Planned for November 2025)*
+## Skill
 
----
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
 
-## 📜 Certifications & Achievements
 
-- ✅ **Google Cybersecurity Certificate** – 2025  
-- ✅ **Data and Tools for Defense Analysts** – Splunk – 2025  
-- ✅ **Introduction to Detection Engineering** – Splunk – 2025  
-- ✅ **Vulnerability Management** – Udemy – 2025  
-- ✅ **Understanding Threats and Attacks** – Splunk – 2025  
-- ✅ **Cyber Threat Management** – Cisco – 2022  
-- ✅ **Introduction to Cybersecurity** – Cisco – 2022  
-- ✅ **Introduction to IoT** – Cisco – 2022  
-- ✅ **Networking Basics** – Cisco – 2022  
-- ✅ **Network Devices and Initial Configuration** – Cisco – 2022  
-- ✅ **CompTIA A+** – 2019  
+## Tools
+<a href="https://www.virustotal.com/"> <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> </a> <a href="https://easy-detect.com/" target="_blank"> <img src="https://img.shields.io/badge/-Easy%20Detect-009688?&style=for-the-badge&logo=security&logoColor=white" /> </a>
 
----
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-## 🧠 Skills
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-- Threat Detection & Alert Triage  
-- Incident Response & SOC Operations  
-- Network Fundamentals (TCP/IP, DNS, DHCP)  
-- Vulnerability Management & Reporting  
-- Windows & Linux Command Line  
-- SIEM Tools (Splunk, LetsDefend, Nessus basics)  
-- Wireshark & Packet Analysis  
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-007396?&style=for-the-badge&logo=Qualys&logoColor=white" />
 
----
+</div>
 
-## 💼 Projects & Labs
+## Certifications]
+<div>
+  <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-0066A1?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <a href="https://letsdefend.io/certificates/Reveng-RAT">
+  <img src="https://img.shields.io/badge/-Reveng%20RAT%20Certified-2E7D32?&style=for-the-badge&logo=letsdefend&logoColor=white" />
+      <a href="https://letsdefend.io/certificates/Malicious-Excel-Expert">
+  <img src="https://img.shields.io/badge/-Malicious%20Excel%20Expert-1565C0?&style=for-the-badge&logo=letsdefend&logoColor=white" />
+</a>
 
-### 🔍 LetsDefend SOC Analyst Labs
-- Platform: LetsDefend  
-- Description: Working through real-world Blue Team labs, focusing on triage, incident handling, and malware investigation.  
-- Status: Ongoing  
+</a>
 
-### 📊 Splunk Dashboards for Threat Analysis
-- Tool: Splunk  
-- Focus: Created custom dashboards to monitor anomalies and detect suspicious patterns  
-- Skills Used: Search Processing Language (SPL), correlation searches  
+</a>
 
-### 🛡️ Vulnerability Scanning Practice
-- Tool: Nessus / OpenVAS  
-- Summary: Performed basic scans on test machines, documented CVEs, and simulated remediation actions  
+</div>
 
----
-
-## 🛠️ Learning in Progress
-
-- 💡 Completing SOC simulations weekly via LetsDefend  
-- 📚 Reviewing CVEs and MITRE ATT&CK Framework  
-- 🧪 Practicing malware analysis using sandboxed VMs  
-
----
-
-## 📫 Contact
-
-- 📧 **Email**: dbaloyi47@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/doctorbaloyi](https://www.linkedin.com/in/doctorbaloyi)  
-- ✍️ **Medium**: [medium.com/@dbaloyi47](https://medium.com/@dbaloyi47/about)  
-- 💻 **GitHub**: [github.com/doctorbaloyi](https://github.com/doctorbaloyi)
-
----
-
-> 🔒 “Security is not a product, but a process.” — Bruce Schneier
+## Projects
+- Detection Lab
