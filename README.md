@@ -20,7 +20,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/dbaloyi47/SIEM-Lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| AZURE VIRTUAL MACHINE DEPLOyMENT & Cloud Security Lab | <a href="https://google.com">Deployment  Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
