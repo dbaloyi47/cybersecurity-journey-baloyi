@@ -72,6 +72,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Projects
 <a href="https://github.com/dbaloyi47/SIEM-Lab/blob/main/README.md">Detection Lab</a>
-<a href=https://github.com/dbaloyi47/Azure-Virtual-Machine-Deployment-Cloud-Security-Lab/blob/main/README.md>Deployment  Lab</a>|
+
+
+<a href=https://github.com/dbaloyi47/Azure-Virtual-Machine-Deployment-Cloud-Security-Lab/blob/main/README.md>Deployment  Lab</a>
 
 
